@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" />
+<img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" width="3000" height="500"/>
         
  [![](https://visitcount.itsvg.in/api?id=Nicolas20578&icon=0&color=0)](https://visitcount.itsvg.in)
     <h1 align="center">Hi 😎, I’m @Nicolas20578<img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/gandalf_parrot.gif" width="31" style="vertical-align:middle"></h1>
