@@ -60,6 +60,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas20578&show_icons=true&theme=radical)
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas20578&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+        
+![Snake animation](https://github.com/MGBrave/martageraldo/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
