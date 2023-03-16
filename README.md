@@ -27,6 +27,15 @@
         alt="Bootstrap" width="40" height="40" />&nbsp;
 </div>
 
+
+<div align="center">
+
+### Language
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+</div>
+
 <div align="center">
 
 ### 🛠️ Other tools:
@@ -35,8 +44,15 @@
 
 ### 🖥️ Workspace Setup
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+### 📋 Databases:
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 📲 Mobile languages:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 📚 My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nicolas20578&theme=black-ice&hide_border=true&locale=es)](https://git.io/streak-stats)
@@ -45,11 +61,6 @@
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas20578&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h3 align="center">
-       <img src="https://raw.githubusercontent.com/Nicolas20578/Nicolas20578/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-       <img src="https://raw.githubusercontent.com/Nicolas20578/Nicolas20578/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-</h3>
 
 <!---
 Nicolas20578/Nicolas20578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
