@@ -21,10 +21,6 @@
         title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
         title="python" alt="python" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git"
-        width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"
-        alt="Bootstrap" width="40" height="40" />&nbsp;
 </div>
 
 
@@ -60,8 +56,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas20578&show_icons=true&theme=radical)
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas20578&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-        
-![Snake animation](https://github.com/MGBrave/martageraldo/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
